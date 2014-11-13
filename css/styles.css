@@ -4,6 +4,12 @@ body {
 	background: url("../img/ecailles-c.png") repeat;
 }  
 
+.gallery {
+	display: block;
+	margin: 0 auto;
+	width: 100%;
+}
+
 /* Show Grid */
 .showgrid {
 	background: url("../img/grid-bg.png") repeat-y;
@@ -29,7 +35,10 @@ p {
 
 img {
 	height: 640px;
+
 }
+
+
 /*colors
 
 #F3DBCB
