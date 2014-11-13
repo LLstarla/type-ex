@@ -1,7 +1,7 @@
 /* Your Website Styles */
 
 body { 
-	background: url("../img/ecailles.png") repeat;
+	background: url("../img/ecailles-c.png") repeat;
 }  
 
 /* Show Grid */
@@ -11,14 +11,35 @@ body {
 
 h1 {
 	font: 400 3.5em/125% 'Berkshire Swash', Helvetica, Sans-serif;
-	color: #333;
+	color: #E2B1AA;
 	text-align: center;
 }
 
 h3 {
-	font-family: 'Rokkitt', serif;;
+	font-family: 'Rokkitt', serif;
+	text-align: center;
+	text-transform: uppercase;
 }
 
 p {
 	font-family: 'Rokkitt', serif;
+	color: #0A002A;
+	font-size: 1.25em;
 }
+
+img {
+	height: 640px;
+}
+/*colors
+
+#F3DBCB
+
+#EFAFB3
+
+#EBC5B9
+
+#0A002A
+
+#BF070F
+
+*/
