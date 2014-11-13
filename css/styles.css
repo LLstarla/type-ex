@@ -1,7 +1,24 @@
 /* Your Website Styles */
 
+body { 
+	background: url("../img/ecailles.png") repeat;
+}  
 
 /* Show Grid */
 .showgrid {
 	background: url("../img/grid-bg.png") repeat-y;
+}
+
+h1 {
+	font: 400 3.5em/125% 'Berkshire Swash', Helvetica, Sans-serif;
+	color: #333;
+	text-align: center;
+}
+
+h3 {
+	font-family: 'Rokkitt', serif;;
+}
+
+p {
+	font-family: 'Rokkitt', serif;
 }
